@@ -10,6 +10,7 @@ node(){
 			ls -lart
 			mvn clean install
 			ls -lart target
+		
 
 		"""
 	}
